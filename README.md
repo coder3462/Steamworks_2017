@@ -1,5 +1,5 @@
 # Steamworks_2017
-FIRST Team 1923's official repository for the 2017 game Steamworks
+FIRST Team 1923's official repository for the FRCSim simulator of the 2017 game Steamworks
 
 # Resources
 WPILib Documentation:
